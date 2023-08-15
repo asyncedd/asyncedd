@@ -7,3 +7,4 @@
 </picture>
 
 ![Github](https://github-readme-stats.vercel.app/api?username=asyncedd&show_icons=true&bg_color=1e1e2e&hide_border=true&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7&ring_color=89b4fa)
+[![An image of @asyncedd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asyncedd)](https://holopin.io/@asyncedd)
